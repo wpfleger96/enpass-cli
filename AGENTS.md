@@ -43,7 +43,7 @@ Note the stacking relationship in both PR descriptions and cross-reference with
 `Related: #N` or `Stacked on #N`.
 
 Currently open upstream PRs (update as PRs merge):
-- (none)
+- #158 `feat: add env command for shell-consumable vault export` — adds `env` subcommand with `-field` flag
 
 ## Build & test
 

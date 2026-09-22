@@ -43,7 +43,7 @@ Note the stacking relationship in both PR descriptions and cross-reference with
 `Related: #N` or `Stacked on #N`.
 
 Currently open upstream PRs (update as PRs merge):
-- #158 `feat: add env command for shell-consumable vault export` — adds `env` subcommand with `-field` flag
+- #161 `feat: add -exact flag for exact title/subtitle filter matching` — case-insensitive equality on title/subtitle instead of substring matching
 
 ## Build & test
 

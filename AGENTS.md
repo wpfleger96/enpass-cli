@@ -43,7 +43,7 @@ Note the stacking relationship in both PR descriptions and cross-reference with
 `Related: #N` or `Stacked on #N`.
 
 Currently open upstream PRs (update as PRs merge):
-- #161 `feat: add -exact flag for exact title/subtitle filter matching` — case-insensitive equality on title/subtitle instead of substring matching
+- #163 `fix(release): build Windows targets with mingw and add Windows clipboard` — unblocks semantic-release, which has failed since the Windows builds were added (nothing released after v1.12.0)
 
 ## Build & test
 
